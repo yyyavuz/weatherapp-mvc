@@ -1,0 +1,37 @@
+﻿@model List<Kontrolmatik.Data.Tables.Weather>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    table, th, td {
+    border: 1px solid black;
+}
+</style>
+<div class="row">
+    <table>
+        <thead>
+            <tr>
+                <th>Ülke</th>
+                <th>Şehir</th>
+                <th>Sıcaklık</th>
+                <th>Hava Durumu</th>
+                <th>Hava Durumu Açıklama</th>
+                <th>
+                    <a asp-action="Refresh">Yenile</a>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var weather in Model){
+                <tr>
+                    <td>@weather.CountryCode</td>
+                    <td>@weather.CityName</td>
+                    <td>@weather.Temperature (@weather.TemperatureMin / @weather.TemperatureMax)</td>
+                    <td>@weather.WeatherStatus</td>
+                    <td>@weather.WeatherStatusDescription</td>
+                    <td></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

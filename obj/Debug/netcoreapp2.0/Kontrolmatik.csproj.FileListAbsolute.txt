@@ -1,0 +1,10 @@
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/bin/Debug/netcoreapp2.0/Kontrolmatik.deps.json
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/bin/Debug/netcoreapp2.0/Kontrolmatik.runtimeconfig.json
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/bin/Debug/netcoreapp2.0/Kontrolmatik.runtimeconfig.dev.json
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/bin/Debug/netcoreapp2.0/Kontrolmatik.dll
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/bin/Debug/netcoreapp2.0/Kontrolmatik.pdb
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/obj/Debug/netcoreapp2.0/Kontrolmatik.csproj.CoreCompileInputs.cache
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/obj/Debug/netcoreapp2.0/Kontrolmatik.AssemblyInfoInputs.cache
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/obj/Debug/netcoreapp2.0/Kontrolmatik.AssemblyInfo.cs
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/obj/Debug/netcoreapp2.0/Kontrolmatik.dll
+/Users/yusufyasinyavuz/Documents/Kontrolmatik/obj/Debug/netcoreapp2.0/Kontrolmatik.pdb
